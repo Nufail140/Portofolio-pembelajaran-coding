@@ -32,4 +32,8 @@ This project is a fantasy story presented on parchment-style panels over a fanta
 denga tema uma musume dan pembaruan kesulitan AI
 [Mainkan](https://adorable-scone-06da25.netlify.app/)
 
+
+
+
+
 *Portofolio ini akan terus berkembang seiring dengan proses belajar, eksperimen, dan pengembangan proyek-proyek baru.*
