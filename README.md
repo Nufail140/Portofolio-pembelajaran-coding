@@ -30,4 +30,6 @@ link https://superlative-rabanadas-d49dc0.netlify.app/
 
 #permainan catur dengan tema uma musume
 denga tema uma musume dan pembaruan kesulitan AI
-[Mainkan]https://adorable-scone-06da25.netlify.app/?utm_source=chatgpt.com
+[Mainkan]https://adorable-scone-06da25.netlify.app/
+
+*Portofolio ini akan terus berkembang seiring dengan proses belajar, eksperimen, dan pengembangan proyek-proyek baru.*
