@@ -26,3 +26,8 @@ This project is a fantasy story presented on parchment-style panels over a fanta
 
 # cerpen-fantasi-dengan-pilihan-tombol
 link https://superlative-rabanadas-d49dc0.netlify.app/
+
+
+#permainan catur dengan tema uma musume
+denga tema uma musume dan pembaruan kesulitan AI
+[Mainkan]https://adorable-scone-06da25.netlify.app/?utm_source=chatgpt.com
