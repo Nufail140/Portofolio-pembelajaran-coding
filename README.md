@@ -34,6 +34,15 @@ denga tema uma musume dan pembaruan kesulitan AI
 
 
 
+# contoh website kafe
+[Mari lihat](https://comforting-pegasus-6f3e5c.netlify.app/)
+
+
+# contoh website kafe dengan tema fantasi
+[Mari lihat](https://app.netlify.com/projects/admirable-flan-00c098/)
+
+
+
 
 
 *Portofolio ini akan terus berkembang seiring dengan proses belajar, eksperimen, dan pengembangan proyek-proyek baru.*
