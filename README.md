@@ -39,7 +39,7 @@ denga tema uma musume dan pembaruan kesulitan AI
 
 
 # contoh website kafe dengan tema fantasi
-[Mari lihat](https://app.netlify.com/projects/admirable-flan-00c098/)
+[Mari lihat](https://admirable-flan-00c098.netlify.app/)
 
 
 
