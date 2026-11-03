@@ -42,6 +42,8 @@ denga tema uma musume dan pembaruan kesulitan AI
 [Mari lihat](https://kafe-tema-fantasi.netlify.app/)
 
 
+# contoh website kafe dengan tema awan
+[Lihat)(https://app.netlify.com/projects/kafe-tema-awan/)
 
 
 
