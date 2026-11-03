@@ -43,7 +43,7 @@ denga tema uma musume dan pembaruan kesulitan AI
 
 
 # contoh website kafe dengan tema awan
-[Lihat)(https://app.netlify.com/projects/kafe-tema-awan/)
+[Lihat](https://app.netlify.com/projects/kafe-tema-awan/)
 
 
 
