@@ -46,5 +46,7 @@ denga tema uma musume dan pembaruan kesulitan AI
 [Lihat](https://app.netlify.com/projects/kafe-tema-awan/)
 
 
+# Pixel Animation
+[Buka](https://pixel-succubus.netlify.app/)
 
 *Portofolio ini akan terus berkembang seiring dengan proses belajar, eksperimen, dan pengembangan proyek-proyek baru.*
